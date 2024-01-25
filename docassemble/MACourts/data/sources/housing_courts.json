@@ -172,11 +172,14 @@
   {
     "fax": "(508) 894-4168",
     "name": "Metro South Housing Court - Brockton Session",
+    "url": "https://www.mass.gov/locations/metro-south-housing-court-brockton-session",
+    "description": "The Metro South Housing Court - Brockton Session serves Abington, Bridgewater, Brockton, East Bridgewater,  West Bridgewater, and Whitman.\n\nThe Metro South Housing Court - Canton Session serves Avon, Bellingham, Braintree, Canton, Cohasset, Dedham, Dover, Foxborough, Franklin, Holbrook, Medfield, Medway, Millis, Milton, Needham, Norfolk, Norwood, Plainville, Quincy, Randolph, Sharon, Stoughton, Walpole, Wellesley, Westwood, Weymouth, and Wrentham.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 894-4170",
     "has_po_box": false,
     "location": {
-      "latitude": 42.081684,
-      "longitude": -71.020647
+      "latitude": 42.0816865,
+      "longitude": -71.0206185
     },
     "address": {
       "city": "Brockton",
@@ -231,9 +234,12 @@
     "name": "Northeast Housing Court - Lawrence Session",
     "phone": "(978) 689-7833",
     "has_po_box": false,
+    "description": "The Lawrence Session of the Northeast Housing Court serves Amesbury, Andover, Boxford, Georgetown, Groveland, Haverhill, Lawrence, Merrimac, Methuen, Newbury, Newburyport, North Andover, Rowley, Salisbury, and West Newbury.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
+    "url": "https://www.mass.gov/locations/northeast-housing-court-lawrence-session",
     "location": {
-      "latitude": 42.706667,
-      "longitude": -71.160436
+      "latitude": 42.7066825,
+      "longitude": -71.1630579
     },
     "address": {
       "city": "Lawrence",
@@ -260,11 +266,14 @@
   {
     "fax": "",
     "name": "Northeast Housing Court - Lowell Session",
+    "url": "https://www.mass.gov/locations/northeast-housing-court-lowell-session",
+    "description": "The Lowell session of the Northeast Housing Court serves Acton, Ashby, Ayer, Billerica, Boxborough, Carlisle, Chelmsford, Devens, Dracut, Dunstable, Groton, Littleton, Lowell, Maynard, Pepperell, Shirley, Stow, Tewksbury, Townsend, Tyngsborough, and Westford.",
+    "hours": "This location is open only when court is in session on Monday mornings.",
     "phone": "(978) 689-7833",
     "has_po_box": false,
     "location": {
-      "latitude": 42.637493,
-      "longitude": -71.308387
+      "latitude": 42.6402928,
+      "longitude": -71.3151675
     },
     "address": {
       "city": "Lowell",
@@ -290,11 +299,14 @@
   {
     "fax": "",
     "name": "Northeast Housing Court - Lynn Session",
+    "url": "https://www.mass.gov/locations/northeast-housing-court-lynn-session",
+    "description": "The Lynn session of the Northeast Housing Court is located in Salem and serves Lynn, Nahant, and Saugus.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(978) 689-7833",
     "has_po_box": false,
     "location": {
-      "latitude": 42.464841,
-      "longitude": -70.948987
+      "latitude": 42.5234187,
+      "longitude": -70.8978805
     },
     "address": {
       "city": "St. Salem",
@@ -320,11 +332,14 @@
   {
     "fax": "",
     "name": "Northeast Housing Court - Salem Session",
+    "url": "https://www.mass.gov/locations/northeast-housing-court-salem-session",
+    "description": "The Salem session of the Northeast Housing Court serves Beverly, Danvers, Essex, Gloucester, Hamilton, Ipswich, Lynnfield, Manchester-by-The-Sea, Marblehead, Middleton, Peabody, Rockport, Salem, Swampscott, Topsfield, and Wenham.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(978) 825-4920",
     "has_po_box": false,
     "location": {
-      "latitude": 42.523382,
-      "longitude": -70.896639
+      "latitude": 42.5234187,
+      "longitude": -70.8978805
     },
     "address": {
       "city": "St. Salem",
@@ -561,11 +576,14 @@
   {
     "fax": "(413) 732-4607 ",
     "name": "Western Housing Court - Pittsfield Session",
+    "url": "https://www.mass.gov/locations/western-housing-court-pittsfield-session",
+    "description": "The Pittsfield session of the Western Housing Court serves cities and towns in Berkshire County on Wednesday mornings.",
+    "hours": "Wednesday mornings only \n Wednesday: \n 8:30 am-1:00 pm",
     "phone": "(413) 748-7838 ",
     "has_po_box": false,
     "location": {
-      "latitude": 42.447538,
-      "longitude": -73.252509
+      "latitude": 42.4472389,
+      "longitude": -73.2526702
     },
     "address": {
       "city": "Pittsfield",
@@ -592,11 +610,14 @@
   {
     "fax": "(413) 732-4607",
     "name": "Western Housing Court - Springfield Session",
+    "url": "https://www.mass.gov/locations/western-housing-court-springfield-session",
+    "description": "The Western Housing Court in Springfield serves Agawam, Blandford, Brimfield, Chester, Chicopee, East Longmeadow, Granville, Hampden, Holland, Holyoke, Longmeadow, Ludlow, Monson, Montgomery, Palmer, Russell, Southwick, Springfield, Tolland, Wales, West Springfield, Westfield, and Wilbraham.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 748-7838",
     "has_po_box": true,
     "location": {
-      "latitude": 42.100362,
-      "longitude": -72.588744
+      "latitude": 42.1002814,
+      "longitude": -72.5884583
     },
     "address": {
       "city": "Springfield",
@@ -624,11 +645,14 @@
     "court_code": "H84",
     "tyler_code": "537",
     "name": "Eastern Housing Court - Middlesex Session",
+    "url": "https://www.mass.gov/locations/eastern-housing-court-middlesex-session",
+    "description": "Eastern Housing Court Division – Middlesex Session is located in Somerville District Court. \n\nThis location is only open on Fridays.  This sitting will serve Arlington, Belmont, Cambridge, Medford, Newton, and Somerville.",
+    "hours": "Fridays, 8:30 a.m. This location is only open on Fridays.**",
     "phone": "(617) 788-8485",
     "has_po_box": false,
     "location": {
       "latitude": 42.3955658,
-      "longitude": -71.0869202
+      "longitude": -71.0843506
     },
     "address": {
       "city": "Somerville",
@@ -683,11 +707,14 @@
     "fax": "",
     "court_code": "H84",
     "name": "Eastern Housing Court - Chelsea Session",
+    "url": "https://www.mass.gov/locations/eastern-housing-court-chelsea-session",
+    "description": "Eastern Housing Court Division – Chelsea Session is located in Chelsea District Court. Mondays are the regular weekly sitting. This sitting will serve Chelsea, Revere, Winthrop, and East Boston.",
+    "hours": "Monday 8:30 a.m. This location is only open every second Monday of the month.",
     "phone": "(617)788-8485",
     "has_po_box": false,
     "location": {
-      "latitude": 42.388969,
-      "longitude": -71.041077
+      "latitude": 42.3889817,
+      "longitude": -71.0414912
     },
     "address": {
       "city": "Chelsea",
