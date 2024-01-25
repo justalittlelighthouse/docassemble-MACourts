@@ -2,6 +2,9 @@
   {
     "fax": "",
     "name": "Central Housing Court - Dudley Session",
+    "url": "https://www.mass.gov/locations/central-housing-court-dudley-session",
+    "description": "The Dudley session of the Central Division of the Housing Court serves Charlton, Dudley, Oxford, Southbridge, Sturbridge, and Webster",
+    "hours": "This location is open only when court is in session Monday afternoon.",
     "phone": "(508) 831-2050 ",
     "has_po_box": false,
     "location": {
@@ -37,6 +40,9 @@
   {
     "fax": "",
     "name": "Central Housing Court - Leominster Session",
+    "url": "https://www.mass.gov/locations/central-housing-court-leominster-session",
+    "description": "The Leominster session of the Central Division of the Housing Court serves Ashburnham, Athol, Fitchburg, Gardner, Holden, Hubbardston, Leominster, Lunenberg, Petersham, Phillipston, Princeton, Royalston, Templeton, Westminster, and Winchendon.",
+    "hours": "This location is open only when court is in session Friday morning.",
     "phone": "(508) 831-2050 ",
     "has_po_box": false,
     "location": {
@@ -72,6 +78,9 @@
   {
     "fax": "",
     "name": "Central Housing Court - Marlborough Session",
+    "url": "https://www.mass.gov/locations/central-housing-court-marlborough-session",
+    "description": "The Marlborough session of the Central Division of the Housing Court serves Ashland, Berlin, Bolton, Framingham, Harvard, Holliston, Hopkinton, Hudson, Marlborough, Natick, Northborough, Sherborn, Southborough, Sudbury, Wayland, and Westborough.",
+    "hours": "All cases are heard on Tuesdays at 9:00 am at the Marlboro District Court, 45 Williams Street, Marlborough, MA, 01752. This location is open all day Tuesday while court is in session.",
     "phone": "(508) 831-2050 ",
     "has_po_box": false,
     "location": {
@@ -107,6 +116,9 @@
   {
     "fax": "",
     "name": "Central Housing Court - Worcester Session",
+    "url": "https://www.mass.gov/locations/central-housing-court-worcester-session",
+    "description": "The Worcester session of the Central Division of the Housing Court serves Auburn, Barre, Blackstone, Boylston, Brookfield, Clinton, Douglas, East Brookfield, Grafton, Hardwick, Hopedale, Lancaster, Leicester, Mendon, Milford, Millbury, Millville, New Braintree, Northbridge, North Brookfield, Oakham, Oxford, Paxton, Rutland, Shrewsbury, Spencer, Sterling, Sutton, Upton, Uxbridge, Warren, West Boylston, and Worcester.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 831-2050",
     "has_po_box": false,
     "location": {
@@ -142,6 +154,9 @@
   {
     "fax": "",
     "name": "Eastern Housing Court",
+    "url": "https://www.mass.gov/locations/eastern-housing-court",
+    "description": "The Eastern Division of the Housing Court serves Boston and Brookline.",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(617) 788-8485",
     "has_po_box": false,
     "location": {
@@ -201,6 +216,9 @@
   {
     "fax": "(508) 894-4166",
     "name": "Metro South Housing Court - Canton Session",
+    "url": "https://www.mass.gov/locations/metro-south-housing-court-canton-session",
+    "description": "The Metro South Housing Court - Canton Session serves Avon, Bellingham, Braintree, Canton, Cohasset, Dedham, Dover, Foxborough, Franklin, Holbrook, Medfield, Medway, Millis, Milton, Needham, Norfolk, Norwood, Plainville, Quincy, Randolph, Sharon, Stoughton, Walpole, Wellesley, Westwood, Weymouth, and Wrentham",
+    "hours": "Fridays from 8:30 a.m. until the end of session",
     "phone": "(508) 894-4170",
     "has_po_box": false,
     "location": {
@@ -350,6 +368,9 @@
   {
     "fax": "",
     "name": "Northeast Housing Court - Woburn Session",
+    "url": "https://www.mass.gov/locations/northeast-housing-court-woburn-session",
+    "description": "The Woburn session of the Northeast Housing Court serves Bedford, Burlington, Concord, Everett, Lexington, Lincoln, Malden, Melrose, North Reading, Reading, Stoneham, Wakefield, Waltham, Watertown, Weston, Wilmington, Winchester, and Woburn. For Housing Court matters, information, or questions, please do not contact the Middlesex Superior Court.  Please call the Northeast Housing Court's main Clerk's Office in Lawrence at (978) 689-7833.",
+    "hours": "Friday: \n 8:30 am-4:30 pm",
     "phone": "(978) 689-7833",
     "has_po_box": false,
     "location": {
@@ -381,6 +402,9 @@
   {
     "fax": "(508) 672-9621",
     "name": "Southeast Housing Court - Fall River Session",
+    "url": "https://www.mass.gov/locations/southeast-housing-court-fall-river-session",
+    "description": "The Fall River Session of the Southeast Housing Court serves Freetown, Westport, Fall River, Somerset and Swansea.",
+    "hours": "Monday - Thursday: \n 8:30 am-4:30 pm",
     "phone": "(508) 677-1505",
     "has_po_box": false,
     "location": {
@@ -411,6 +435,9 @@
   {
     "fax": "(508) 994-7538",
     "name": "Southeast Housing Court - New Bedford Session",
+    "url": "https://www.mass.gov/locations/southeast-housing-court-new-bedford-session",
+    "description": "The New Bedford Session of the Southeast Housing Court serves Acushnet, Dartmouth, Fairhaven, Freetown, New Bedford and Westport.",
+    "hours": "Monday: \n 8:30 am-4:30 pm\n \n\n Thursday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 994-0156",
     "has_po_box": false,
     "location": {
@@ -441,6 +468,9 @@
   {
     "fax": "(508) 747-2017",
     "name": "Southeast Housing Court - Plymouth Session",
+    "url": "https://www.mass.gov/locations/southeast-housing-court-plymouth-session",
+    "description": "The Plymouth session of the Southeast Housing Court serves Accord, Assinippi, Bryantville, Carver, South Carver, Duxbury, Greenbush, Green Harbour, Halifax, Hanover, Hanson, Hingham, Hull, Humarock, Kingston, Lakeville, Manomet, Marion, Marshfield, Mattapoisett, Middleborough, Norwell, Onset, Pembroke, North Pembroke, Plymouth, Plympton, Rochester, Rockland, Scituate, Whitman, Wareham, West Wareham.",
+    "hours": "Monday: \n 8:30 am-4:30 pm\n \n\n Wednesday: \n 8:30 am-4:30 pm\n \n\n Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 747-8550",
     "has_po_box": false,
     "location": {
@@ -471,6 +501,9 @@
   {
     "fax": "(508) 977-0485",
     "name": "Southeast Housing Court - Taunton Session",
+    "url": "https://www.mass.gov/locations/southeast-housing-court-taunton-session"
+    "description": "The Taunton Session of the Southeast Housing Court serves Attleboro, Berkley, Dighton, Easton, Mansfield, North Attleborough, Norton, Raynham, Rehoboth, Seekonk and Taunton.",
+    "hours": "Tuesday: \n 8:30 am-4:30 pm\n \n\n Thursday: \n 8:30 am-4:30 pm",
     "phone": "(508) 977-4950",
     "has_po_box": false,
     "location": {
@@ -501,6 +534,9 @@
   {
     "fax": "(413) 732-4607",
     "name": "Western Housing Court - Greenfield Session",
+    "url": "https://www.mass.gov/locations/western-housing-court-greenfield-session",
+    "description": "The Western Housing Court in Greenfield serves Ashfield, Bernardston, Buckland, Charlemont, Colrain, Conway, Deerfield, Erving, Gill, Greenfield, Hawley, Heath, Leverett, Leyden, Monroe, Montague, New Salem, Northfield, Orange, Rowe, Shelburne, Shutesbury, Sunderland, Warwick, Wendell and Whately.",
+    "hours": "This location is open only when court is in session Friday morning.",
     "phone": "(413) 748-7838",
     "has_po_box": false,
     "location": {
@@ -531,6 +567,9 @@
   {
     "fax": "(413) 732-4607 ",
     "name": "Western Housing Court - Hadley Session",
+    "url": "https://www.mass.gov/locations/western-housing-court-hadley-session",
+    "description": "The Hadley session of the Western Housing Court serves Amherst, Belchertown, Chesterfield, Cummington, Easthampton, Goshen, Granby, Hadley, Hatfield, Huntington, Middlefield, Northampton, Pelham, Plainfield, South Hadley, Southampton, Ware, Westhampton, Williamsburg and Worthington.",
+    "hours": "This location is open only when court is in session Monday morning.",
     "phone": "(413) 748-7838 ",
     "has_po_box": false,
     "location": {
