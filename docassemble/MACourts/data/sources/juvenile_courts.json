@@ -5,6 +5,8 @@
     "tyler_lower_court_code": "1839",
     "tyler_prod_lower_court_code": "7068",
     "name": "Attleboro Juvenile Court",
+    "url": "https://www.mass.gov/locations/attleboro-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 222-5350",
     "has_po_box": false,
     "location": {
@@ -68,6 +70,8 @@
     "tyler_lower_court_code": "1845",
     "tyler_prod_lower_court_code": "7074",
     "name": "Belchertown Juvenile Court",
+    "url": "https://www.mass.gov/locations/belchertown-juvenile-court",
+    "hours": "Hours vary",
     "phone": "(413) 323-4056",
     "has_po_box": false,
     "location": {
@@ -378,6 +382,8 @@
     "tyler_lower_court_code": "1834",
     "tyler_prod_lower_court_code": "7063",
     "name": "Falmouth Juvenile Court",
+    "url": "https://www.mass.gov/locations/falmouth-juvenile-court",
+    "hours": "Hours vary",
     "phone": "(508) 495-1696",
     "has_po_box": false,
     "location": {
@@ -480,6 +486,8 @@
     "tyler_lower_court_code": "1838",
     "tyler_prod_lower_court_code": "7067",
     "name": "Great Barrington Juvenile Court",
+    "url": "https://www.mass.gov/locations/great-barrington-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 528-3520",
     "has_po_box": false,
     "location": {
@@ -509,6 +517,7 @@
     "tyler_lower_court_code": "1845",
     "tyler_prod_lower_court_code": "7074",
     "name": "Greenfield Juvenile Court",
+    "url": "https://www.mass.gov/locations/greenfield-juvenile-court",
     "phone": "(413) 775-0014",
     "has_po_box": false,
     "location": {
@@ -597,6 +606,8 @@
     "tyler_lower_court_code": "1846",
     "tyler_prod_lower_court_code": "7075",
     "name": "Holyoke Juvenile Court",
+    "url": "https://www.mass.gov/locations/holyoke-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 322-6700",
     "has_po_box": false,
     "location": {
@@ -626,6 +637,8 @@
     "tyler_lower_court_code": "1844",
     "tyler_prod_lower_court_code": "7073",
     "name": "Lawrence Juvenile Court",
+    "url": "https://www.mass.gov/locations/lawrence-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(978) 725-4900 x2",
     "has_po_box": false,
     "location": {
@@ -695,6 +708,8 @@
     "tyler_lower_court_code": "1844",
     "tyler_prod_lower_court_code": "7073",
     "name": "Lynn Juvenile Court",
+    "url": "https://www.mass.gov/locations/lynn-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": " (781) 586-0415 x4",
     "has_po_box": false,
     "location": {
@@ -753,6 +768,7 @@
     "tyler_lower_court_code": "1835",
     "tyler_prod_lower_court_code": "7064",
     "name": "Nantucket Juvenile Court",
+    "url": "https://www.mass.gov/locations/nantucket-juvenile-court",
     "phone": "",
     "has_po_box": false,
     "location": {
@@ -775,6 +791,8 @@
     "tyler_lower_court_code": "1841",
     "tyler_prod_lower_court_code": "7070",
     "name": "New Bedford Juvenile Court",
+    "url": "https://www.mass.gov/locations/new-bedford-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 999-9700",
     "has_po_box": false,
     "location": {
@@ -872,6 +890,8 @@
     "tyler_lower_court_code": "1845",
     "tyler_prod_lower_court_code": "7074",
     "name": "Orange Juvenile Court",
+    "url": "https://www.mass.gov/locations/orange-juvenile-court",
+    "hours": "Hours vary",
     "phone": "(978) 544-5125",
     "has_po_box": false,
     "location": {
@@ -901,6 +921,8 @@
     "tyler_lower_court_code": "1836",
     "tyler_prod_lower_court_code": "7065",
     "name": "Orleans Juvenile Court",
+    "url": "https://www.mass.gov/locations/orleans-juvenile-court",
+    "hours": "Hours vary",
     "phone": "(508) 240-5044",
     "has_po_box": false,
     "location": {
@@ -958,6 +980,8 @@
     "tyler_lower_court_code": "1838",
     "tyler_prod_lower_court_code": "7067",
     "name": "Pittsfield Juvenile Court",
+    "url": "https://www.mass.gov/locations/pittsfield-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 443-8533",
     "has_po_box": false,
     "location": {
@@ -1051,6 +1075,8 @@
     "tyler_lower_court_code": "1844",
     "tyler_prod_lower_court_code": "7073",
     "name": "Salem Juvenile Court",
+    "url": "https://www.mass.gov/locations/salem-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(978) 745-9660 x1",
     "has_po_box": false,
     "location": {
@@ -1085,6 +1111,8 @@
     "tyler_lower_court_code": "1846",
     "tyler_prod_lower_court_code": "7075",
     "name": "Springfield Juvenile Court",
+    "url": "https://www.mass.gov/locations/springfield-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 748-7860",
     "has_po_box": false,
     "location": {
