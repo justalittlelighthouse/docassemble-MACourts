@@ -126,6 +126,8 @@
     "tyler_lower_court_code": "1849",
     "tyler_prod_lower_court_code": "7078",
     "name": "Brockton Juvenile Court",
+    "url": "https://www.mass.gov/locations/brockton-juvenile-court", 
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm", 
     "phone": "(508) 897-4900",
     "has_po_box": false,
     "location": {
@@ -155,6 +157,8 @@
     "tyler_lower_court_code": "1847",
     "tyler_prod_lower_court_code": "7076",
     "name": "Cambridge Juvenile Court",
+    "url": "https://www.mass.gov/locations/cambridge-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(617) 494-4100",
     "has_po_box": false,
     "location": {
@@ -194,6 +198,8 @@
     "tyler_lower_court_code": "1852",
     "tyler_prod_lower_court_code": "7081",
     "name": "Chelsea Juvenile Court",
+    "url": "https://www.mass.gov/locations/chelsea-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(617) 660-9225",
     "has_po_box": false,
     "location": {
@@ -223,6 +229,8 @@
     "tyler_lower_court_code": "1848",
     "tyler_prod_lower_court_code": "7077",
     "name": "Dedham Juvenile Court",
+    "url": "https://www.mass.gov/locations/dedham-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(781) 329-1500",
     "has_po_box": false,
     "location": {
@@ -257,6 +265,8 @@
     "tyler_lower_court_code": "1852",
     "tyler_prod_lower_court_code": "7081",
     "name": "Dorchester Juvenile Court",
+    "url": "https://www.mass.gov/locations/dorchester-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(617) 288-9500 x400",
     "has_po_box": false,
     "location": {
@@ -291,6 +301,8 @@
     "tyler_lower_court_code": "1853",
     "tyler_prod_lower_court_code": "7082",
     "name": "Dudley Juvenile Court",
+    "url": "https://www.mass.gov/locations/dudley-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm", 
     "phone": "(508) 949-3070",
     "has_po_box": false,
     "location": {
@@ -407,6 +419,8 @@
     "tyler_lower_court_code": "1853",
     "tyler_prod_lower_court_code": "7082",
     "name": "Fitchburg Juvenile Court",
+    "url": "https://www.mass.gov/locations/fitchburg-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(978) 345-7620",
     "has_po_box": false,
     "location": {
@@ -441,6 +455,8 @@
     "tyler_lower_court_code": "1847",
     "tyler_prod_lower_court_code": "7076",
     "name": "Framingham Juvenile Court",
+    "url": "https://www.mass.gov/locations/framingham-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 879-3561",
     "has_po_box": false,
     "location": {
@@ -568,6 +584,8 @@
     "tyler_lower_court_code": "1850",
     "tyler_prod_lower_court_code": "7079",
     "name": "Hingham Juvenile Court",
+    "url": "https://www.mass.gov/locations/hingham-juvenile-court", 
+    "hours": "Hours vary",
     "phone": "(781) 741-6007",
     "has_po_box": false,
     "location": {
@@ -724,6 +742,8 @@
     "tyler_lower_court_code": "1853",
     "tyler_prod_lower_court_code": "7082",
     "name": "Milford Juvenile Court",
+    "url": "https://www.mass.gov/locations/milford-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm", 
     "phone": "(508) 478-8638",
     "has_po_box": false,
     "location": {
@@ -1017,6 +1037,8 @@
     "tyler_lower_court_code": "1848",
     "tyler_prod_lower_court_code": "7077",
     "name": "Quincy Juvenile Court",
+    "url": https://www.mass.gov/locations/quincy-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm", 
     "phone": "(617) 376-7505",
     "has_po_box": false,
     "location": {
@@ -1153,6 +1175,8 @@
     "tyler_lower_court_code": "1848",
     "tyler_prod_lower_court_code": "7077",
     "name": "Stoughton Juvenile Court",
+    "url": "https://www.mass.gov/locations/stoughton-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "",
     "has_po_box": false,
     "location": {
@@ -1222,6 +1246,8 @@
     "tyler_lower_court_code": "1847",
     "tyler_prod_lower_court_code": "7076",
     "name": "Waltham Juvenile Court",
+    "url": "https://www.mass.gov/locations/waltham-juvenile-court", 
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm", 
     "phone": "(781) 899-7672",
     "has_po_box": false,
     "location": {
@@ -1256,6 +1282,8 @@
     "tyler_lower_court_code": "1851",
     "tyler_prod_lower_court_code": "7080",
     "name": "Wareham Juvenile Court",
+    "url": "https://www.mass.gov/locations/wareham-juvenile-court", 
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 291-8407",
     "has_po_box": false,
     "location": {
@@ -1285,6 +1313,8 @@
     "tyler_lower_court_code": "1852",
     "tyler_prod_lower_court_code": "7081",
     "name": "West Roxbury Juvenile Court",
+    "url": "https://www.mass.gov/locations/west-roxbury-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(617) 971-1154",
     "has_po_box": false,
     "location": {
@@ -1314,6 +1344,8 @@
     "tyler_lower_court_code": "1853",
     "tyler_prod_lower_court_code": "7082",
     "name": "Worcester Juvenile Court",
+    "url": "https://www.mass.gov/locations/worcester-juvenile-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 831-2000",
     "has_po_box": false,
     "location": {
