@@ -2,6 +2,8 @@
   {
     "fax": "",
     "court_code": "72",
+    "url": "https://www.mass.gov/locations/barnstable-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm", 
     "tyler_lower_court_code": "1870",
     "tyler_prod_lower_court_code": "7099",
     "name": "Barnstable County Superior Court",
@@ -34,6 +36,8 @@
     "tyler_lower_court_code": "1871",
     "tyler_prod_lower_court_code": "7100",
     "name": "Berkshire County Superior Court",
+    "url": "https://www.mass.gov/locations/berkshire-county-superior-court", 
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 499-7487",
     "has_po_box": false,
     "location": {
@@ -63,6 +67,8 @@
     "tyler_lower_court_code": "1872",
     "tyler_prod_lower_court_code": "7101",
     "name": "Bristol County Superior Court",
+    "url": "https://www.mass.gov/locations/bristol-county-superior-court", 
+    "hours": "Monday - Friday: \n 8:00 am-4:30 pm", 
     "phone": "(508) 823-6588",
     "has_po_box": false,
     "location": {
@@ -151,6 +157,8 @@
     "tyler_lower_court_code": "1873",
     "tyler_prod_lower_court_code": "7102",
     "name": "Dukes County Superior Court",
+    "url": "https://www.mass.gov/locations/dukes-county-superior-court",
+    "hours": "Monday - Friday: \n 8:00 am-4:00 pm",
     "phone": "(508) 627-4668",
     "has_po_box": true,
     "location": {
@@ -180,6 +188,8 @@
     "tyler_lower_court_code": "1874",
     "tyler_prod_lower_court_code": "7103",
     "name": "Essex County Superior Court",
+    "url": "https://www.mass.gov/locations/essex-county-superior-court",
+    "hours": "Monday - Friday: \n 8:00 am-4:30 pm",
     "phone": "(978) 744-5500 ",
     "has_po_box": false,
     "location": {
@@ -277,6 +287,8 @@
     "tyler_lower_court_code": "1875",
     "tyler_prod_lower_court_code": "7104",
     "name": "Franklin County Superior Court",
+    "url": "https://www.mass.gov/locations/franklin-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 775-7400",
     "has_po_box": false,
     "location": {
@@ -310,6 +322,8 @@
     "tyler_lower_court_code": "1869",
     "tyler_prod_lower_court_code": "7098",
     "name": "Hampden County Superior Court",
+    "url": "https://www.mass.gov/locations/hampden-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 735-6016",
     "has_po_box": true,
     "location": {
@@ -339,6 +353,8 @@
     "tyler_lower_court_code": "1876",
     "tyler_prod_lower_court_code": "7105",
     "name": "Hampshire County Superior Court",
+    "url": "https://www.mass.gov/locations/hampshire-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(413) 584-5810",
     "has_po_box": true,
     "location": {
@@ -373,6 +389,8 @@
     "tyler_lower_court_code": "1877",
     "tyler_prod_lower_court_code": "7106",
     "name": "Middlesex County Superior Court",
+    "url": "https://www.mass.gov/locations/middlesex-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(781) 939-2700",
     "has_po_box": false,
     "location": {
@@ -432,6 +450,8 @@
     "tyler_lower_court_code": "1878",
     "tyler_prod_lower_court_code": "7107",
     "name": "Nantucket County Superior Court",
+    "url": "https://www.mass.gov/locations/nantucket-county-superior-court",
+    "hours": "Monday - Friday: \n 8:00 am-4:00 pm",
     "phone": "(508) 228-2559",
     "has_po_box": false,
     "location": {
@@ -461,6 +481,8 @@
     "tyler_lower_court_code": "1879",
     "tyler_prod_lower_court_code": "7108",
     "name": "Norfolk County Superior Court",
+    "url": "https://www.mass.gov/locations/norfolk-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(781) 326-1600",
     "has_po_box": false,
     "location": {
@@ -490,6 +512,8 @@
     "tyler_lower_court_code": "1881",
     "tyler_prod_lower_court_code": "7110",
     "name": "Plymouth County Superior Court",
+    "url": "https://www.mass.gov/locations/plymouth-county-superior-court", 
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 747-8400",
     "has_po_box": false,
     "location": {
@@ -548,6 +572,8 @@
     "tyler_lower_court_code": "1882",
     "tyler_prod_lower_court_code": "7111",
     "name": "Suffolk County Superior Court",
+    "url": "https://www.mass.gov/locations/suffolk-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(617) 788-8175",
     "has_po_box": false,
     "location": {
@@ -587,6 +613,8 @@
     "tyler_lower_court_code": "1883",
     "tyler_prod_lower_court_code": "7112",
     "name": "Worcester County Superior Court",
+    "url": "https://www.mass.gov/locations/worcester-county-superior-court",
+    "hours": "Monday - Friday: \n 8:30 am-4:30 pm",
     "phone": "(508) 831-2000",
     "has_po_box": false,
     "location": {
